@@ -1,0 +1,20 @@
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Dart/Flutter build files
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Test files
+coverage/
+
+# Other
+.DS_Store
